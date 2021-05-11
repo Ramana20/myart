@@ -1,0 +1,12 @@
+<div class="original-art image grid-item">
+                  <img src="assets/acrylic/15.jpeg">
+                  <p class="Name">Pencil Portrait 4" A3</p>
+                    <h6 class="price">?750</h6>
+
+                </div>
+                
+
+
+
+Ignore Last Two "</div>"
+
